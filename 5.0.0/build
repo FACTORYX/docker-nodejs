@@ -1,0 +1,1 @@
+docker build -t factoryx/nodejs:5.0.0 .
